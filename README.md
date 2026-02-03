@@ -18,13 +18,6 @@ Currently working on enhancing my skills in **React, Node.js, MongoDB**, and **P
 - **Tools & Others:** Git, GitHub, VS Code, Postman, Vite
 - **Languages:** Python, JavaScript(basic),C 
 
-
-
-## 🔹 Connect with Me
-- 💼 LinkedIn:  [https://www.linkedin.com/in/asna-s-05348131b](https://www.linkedin.com/in/asna-s-05348131b)
-- 📧 Email:asnas6050@gmail.com 
-- 🐙 GitHub: [https://github.com/Asnas6315](https://github.com/Asnas6315)
-
 ---
 
 ## 🔹 Fun Fact
